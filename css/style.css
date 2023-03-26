@@ -19,6 +19,7 @@ header {
     background-color: var(--main-color);
     border-color: var(--second-color);
     border-width: 5px;
+    box-shadow: 4px 4px var(--second-color);
 }
 
 #boton-abajo-svg {
